@@ -41,6 +41,9 @@ Português (Portuguese) = Português (Portuguese)
 # ui_data_ru.txt
 Русский (Russian) = Русский (Russian)
 
+# ui_data_ro
+Română (Romanian) = Română (Romanian)
+
 # ui_data_es.txt
 Spanish (Spain) = Spanish (Spain)
 
